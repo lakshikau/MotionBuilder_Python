@@ -13,3 +13,6 @@ Used to attach and parent a motion builder 3D Camera to mocap data stream
 MB_StickFigure_V1.0.py
 Finds the skeleton in the scene and then attach and parent a cylinder to each one of the bones on the skeleton 
 Used when human mocap data needs to be rendered without attaching a character model
+
+Demonstrations of the above scripts are recorded in the latter half of the following video
+https://vimeo.com/155073467
