@@ -1,7 +1,7 @@
 #
 # Script description:
 # Finds if the Joint of a given name is there and attach a 3d camera to it
-# Used to attache and parent 3D Camera to the Oculus mocap data
+# Used to attach and parent a motion builder 3D Camera to mocap data stream
 # MadeBy: Lakshika Udakandage 
 #
 ###########################
