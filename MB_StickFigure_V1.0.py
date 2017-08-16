@@ -1,7 +1,7 @@
 #
 # Script description:
-# Finds skeliton and attach and parent a cylinder to each one of them on the skeliton 
-# Used when motion human mocap data needs to e renderd withouth attaching a charcter
+# Finds the skeleton in the scene and then attach and parent a cylinder to each one of the bones on the skeleton 
+# Used when human mocap data needs to be rendered without attaching a character model
 # MadeBy: Lakshika Udakandage 
 #
 ###########################
