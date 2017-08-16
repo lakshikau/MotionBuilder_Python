@@ -1,7 +1,7 @@
 #
 # Script description:
-# setup the control GUI for the mocap virtual cam iPad interface
-# Used to give touch control to the iPad vertual camera user with basic transprot and camera control
+# Setup the control GUI for the mocap virtual cam iPad interface
+# Used to give touch control to the iPad virtual camera user with basic transport and camera control
 # MadeBy: Lakshika Udakandage 
 #
 ###########################
